@@ -12,7 +12,7 @@ order: 2
 3. [Mentorship & Guidance](#3-mentorship--guidance)
 4. [Support and Resolution Protocol](#4-support-and-resolution-protocol)
 5. [Completion & Certification](#5-completion--certification)
-6. [Termination & Rejoining](#6-termination--rejoining)
+6. [Discontinuation Policy](#6-discontinuation-policy)
 7. [ViBe Platform](#7-vibe-platform)
 8. [Cliq Channel](#8-cliq-channel)
 9. [MERN Case Studies](#9-mern-case-studies)
@@ -102,10 +102,19 @@ Not guaranteed. Issued **at the instructor's discretion** based on performance a
 
 ---
 
-## 6. Termination & Rejoining
+## 6. Discontinuation Policy
 
-**6.1 Can I appeal a termination?**  
-No. Terminations are **final**.
+**6.1 What is the expected pace of learning?**  
+While this bootcamp is self-paced, we expect participants to maintain steady progress. You should aim to complete **at least 3% of the ViBe course content daily**. This ensures consistent engagement and helps you build momentum in your learning journey.
+
+**6.2 What happens if I don't maintain regular progress?**  
+If you remain inactive or fail to make reasonable progress over an extended period, we may discontinue your access to the bootcamp. This policy helps us ensure that active learners have the best support and resources.
+
+**6.3 Can I appeal a discontinuation decision?**  
+No. Discontinuation decisions are **final** and cannot be appealed.
+
+**6.4 Can I rejoin the bootcamp after discontinuation?**  
+No. Once discontinued, you cannot rejoin the current bootcamp. You would need to apply fresh for any future bootcamp offerings, subject to availability.
 
 ---
 
